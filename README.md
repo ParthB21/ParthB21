@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Parth 👋</h1>
+<h3> Hey, I'm Parth 👋</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=CompE+%40+University+of+Toronto;ML+research;Full-stack+systems" alt="Typing animation" />
