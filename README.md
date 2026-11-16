@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:30363d&section=header" width="100%" alt="" />
-
 <h1 align="center">Hey, I'm Parth 👋</h1>
 
 <p align="center">
@@ -34,5 +32,3 @@ systems.
 
 ## Reach me
 [LinkedIn](https://www.linkedin.com/in/parthbhasin/) · parth.bhasin@mail.utoronto.ca
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:30363d,100:0d1117&section=footer" width="100%" alt="" />
