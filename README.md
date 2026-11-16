@@ -1,4 +1,10 @@
-# Hey, I'm Parth 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:30363d&section=header" width="100%" alt="" />
+
+<h1 align="center">Hey, I'm Parth 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=CompE+%40+University+of+Toronto;ML+research;Full-stack+systems" alt="Typing animation" />
+</p>
 
 CompE @ University of Toronto (2nd Year). I build ML and full-stack
 systems.
@@ -21,11 +27,12 @@ systems.
 | [**PiazzaLens**](https://github.com/MustafaAmin06/PiazzaLens) | Chrome extension for instructors, on AWS Bedrock | 🏆 Best Project, Hack the Student Life |
 | [**Chess Engine**](https://github.com/Yousufakhan95/L4Demons) | CNN eval network + Negamax in C++/PyTorch | Alpha-beta, transposition cache, depth 5 |
 
-
 ## Stack
-**Languages:** Python · C++ · C · Java · TypeScript · SQL · Verilog
-**ML:** PyTorch · TensorFlow · Stable-Baselines3 · Gymnasium · scikit-learn · NumPy · Pandas
+**Languages:** Python · C++ · C · Java · TypeScript · SQL · Verilog<br>
+**ML:** PyTorch · TensorFlow · Stable-Baselines3 · Gymnasium · scikit-learn · NumPy · Pandas<br>
 **Tools:** Docker · Linux · AWS · MongoDB · Git · WSL
 
 ## Reach me
 [LinkedIn](https://www.linkedin.com/in/parthbhasin/) · parth.bhasin@mail.utoronto.ca
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:30363d,100:0d1117&section=footer" width="100%" alt="" />
