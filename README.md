@@ -18,7 +18,7 @@ systems.
 |---|---|---|
 | [**Agentigram**](https://github.com/ParthB21/agentigram) | Peer-to-peer coordination layer that detects and resolves conflicts between coding agents on different laptops | 🏆 Best Sovereign App (Best Use of Tether), Hack the North · Hyperswarm, on-device QVAC models |
 | [**Right Whale Prediction Model**](https://github.com/ParthB21/WhaleGuard_RBC_LSI) | RBC Borealis ML program, 64k+ satellite records | XGBoost / RF, ROC-AUC > 0.89 |
-| [**PiazzaLens**](https://github.com/MustafaAmin06/PiazzaLens) | Chrome extension for instructors, on AWS Bedrock | 🏆 Best Project, Hack the Student Life |
+| [**PiazzaLens**](https://github.com/MustafaAmin06/PiazzaLens) | Chrome extension for instructors, on AWS Bedrock | 🏆 Best Project, AWS Hack the Student Life |
 | [**Chess Engine**](https://github.com/Yousufakhan95/L4Demons) | CNN eval network + Negamax in C++/PyTorch | Alpha-beta, transposition cache, depth 5 |
 
 ## Stack
